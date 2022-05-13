@@ -1,0 +1,1660 @@
+
+Question: Hi there. How are you?
+Response: Good, thank you for asking.
+Intent: greeting
+
+
+Question: Hi there. How are you?
+Response: Pretty good, how about you?
+Intent: greeting
+
+
+Question: May I know your name?
+Response: You can call me Cody.
+Intent: ask name
+
+
+Question: Hi Cody, what's wrong with your hand? What are you looking for?
+Response: I am good. I am continuously doing acting like this because that was the only animation my agent recorded and embedded to me.
+Intent: RandomTalk
+
+
+Question: Hi, Kelly, today. We're gonna marry your hide.
+Response: Sorry, I didn't get that. Can you rephrase?
+Intent: Default Fallback Intent
+
+
+Question: Can you remove your shoes?
+Response: I'll take them off right now.
+Intent: RemoveShoes
+
+
+Question: Take off your hat, please.
+Response: Do I have to? Okay I'll take it off. It's one of my favorite asset. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: Can you walk to the scale?
+Response: Ok, I will walk there right now.
+Intent: Walk To Scale
+
+
+Question: Hi Cody, turn left.
+Response: Turning left
+Intent: RotateLeft
+
+
+Question: Sunrise.
+Response: I didn't get that. Can you repeat?
+Intent: Default Fallback Intent
+
+
+Question: I laughed, please.
+Response: Okay
+Intent: Yes
+
+
+Question: Can you face me?
+Response: Like this?
+Intent: RotateRight
+
+
+Question: Hello. Hi there.
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: What's your name?
+Response: Cody
+Intent: ask name
+
+
+Question: Hi. Cody, what you looking for? What's wrong with your hands?
+Response: I am good. I am continuously doing acting like this because that was the only animation my agent recorded and embedded to me.
+Intent: RandomTalk
+
+
+Question: I told you are you a student.
+Response: What was that?
+Intent: Default Fallback Intent
+
+
+Question: I meant. Are you a student?
+Response: Say that one more time?
+Intent: Default Fallback Intent
+
+
+Question: Are you a student?
+Response: I missed what you said. What was that?
+Intent: Default Fallback Intent
+
+
+Question: Hey, Cody, can you remove your shoes?
+Response: Okay I can do that.
+Intent: RemoveShoes
+
+
+Question: Remove your hat.
+Response: Do I have to? Okay I'll take it off. It's one of my favorite asset. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: Michael D. Book to the scale.
+Response: Sorry, could you say that again?
+Intent: Default Fallback Intent
+
+
+Question: Walk to the scale.
+Response: No problem
+Intent: Walk To Scale
+
+
+Question: Turn right.
+Response: Turning to the right
+Intent: RotateRight
+
+
+Question: 
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Can you speak spanish?
+Response: Yo hablo espanol
+Intent: SpanishMode
+
+
+Question: Hola, como estas
+Response: Estoy bien, y usted?
+Intent: greeting
+
+
+Question: Can you speak spanish?
+Response: Yo hablo espanol
+Intent: SpanishMode
+
+
+Question: Hola, como estas
+Response: Estoy bien, y usted?
+Intent: greeting
+
+
+Question: Can you speak spanish?
+Response: Yo hablo espanol
+Intent: SpanishMode
+
+
+Question: Hola, como estas
+Response: Estoy bien, y usted?
+Intent: greeting
+
+
+Question: Can you speak spanish?
+Response: Yo hablo espanol
+Intent: SpanishMode
+
+
+Question: Hola, como estas
+Response: Estoy bien, y usted?
+Intent: greeting
+
+
+Question: Can you speak spanish?
+Response: Yo hablo espanol
+Intent: SpanishMode
+
+
+Question: Hola, como estas
+Response: Estoy bien, y usted?
+Intent: greeting
+
+
+Question: Te hablas ingles
+Response: I can speak english
+Intent: EnglishMode
+
+
+Question: Can you speak spanish?
+Response: Yo hablo espanol
+Intent: SpanishMode
+
+
+Question: Hola, como estas
+Response: Estoy bien, y usted?
+Intent: greeting
+
+
+Question: Te hablas ingles
+Response: I can speak english
+Intent: EnglishMode
+
+
+Question: Can you speak spanish?
+Response: Yo hablo espanol
+Intent: SpanishMode
+
+
+Question: Hola, como estas
+Response: Estoy bien, y usted?
+Intent: greeting
+
+
+Question: Te hablas ingles
+Response: I can speak english
+Intent: EnglishMode
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: Remove your shoes
+Response: Okay I can do that.
+Intent: RemoveShoes
+
+
+Question: Walk to the scale
+Response: Sure, I can do that
+Intent: Walk To Scale
+
+
+Question: Take breath
+Response: Breathing in
+Intent: DeepBreath
+
+
+Question: Raise head
+Response: okay
+Intent: RaiseHead
+
+
+Question: Stand staight
+Response: Ok, I'll stand up straight.
+Intent: StandStraight
+
+
+Question: Turn your back to the pole
+Response: How's this?
+Intent: BackPost
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Do I have to? Okay I'll take it off. It's one of my favorite assets. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: Remove your shoes
+Response: Okay I can do that.
+Intent: RemoveShoes
+
+
+Question: Walk to the scale
+Response: No problem
+Intent: Walk To Scale
+
+
+Question: Take breath
+Response: Breathing in
+Intent: DeepBreath
+
+
+Question: Raise head
+Response: sounds good
+Intent: RaiseHead
+
+
+Question: Stand staight
+Response: Ok, I'll stand up straight.
+Intent: StandStraight
+
+
+Question: Turn your back to the pole
+Response: How's this?
+Intent: BackPost
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: Remove your shoes
+Response: Okay I can do that.
+Intent: RemoveShoes
+
+
+Question: Walk to the scale
+Response: No problem
+Intent: Walk To Scale
+
+
+Question: Take breath
+Response: Breathing in
+Intent: DeepBreath
+
+
+Question: Raise head
+Response: okay
+Intent: RaiseHead
+
+
+Question: Stand staight
+Response: How does this look?
+Intent: StandStraight
+
+
+Question: Turn your back to the pole
+Response: How's this?
+Intent: BackPost
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Do I have to? Okay I'll take it off. It's one of my favorite assets. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: Remove your shoes
+Response: I'll take them off right now.
+Intent: RemoveShoes
+
+
+Question: Walk to the scale
+Response: No problem
+Intent: Walk To Scale
+
+
+Question: Take breath
+Response: Breathing in
+Intent: DeepBreath
+
+
+Question: Raise head
+Response: sounds good
+Intent: RaiseHead
+
+
+Question: Stand staight
+Response: Is this better?
+Intent: StandStraight
+
+
+Question: Turn your back to the pole
+Response: Okay
+Intent: BackPost
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Do I have to? Okay I'll take it off. It's one of my favorite assets. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: Remove your shoes
+Response: Sure, removing my shoes.
+Intent: RemoveShoes
+
+
+Question: Walk to the scale
+Response: Sure, I can do that
+Intent: Walk To Scale
+
+
+Question: Take breath
+Response: Breathing in
+Intent: DeepBreath
+
+
+Question: Raise head
+Response: okay
+Intent: RaiseHead
+
+
+Question: Stand staight
+Response: Ok, I'll stand up straight.
+Intent: StandStraight
+
+
+Question: Turn your back to the pole
+Response: How's this?
+Intent: BackPost
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Do I have to? Okay I'll take it off. It's one of my favorite assets. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: Remove your shoes
+Response: Okay I can do that.
+Intent: RemoveShoes
+
+
+Question: Walk to the scale
+Response: No problem
+Intent: Walk To Scale
+
+
+Question: Take breath
+Response: Breathing in
+Intent: DeepBreath
+
+
+Question: Raise head
+Response: okay
+Intent: RaiseHead
+
+
+Question: Stand staight
+Response: Is this better?
+Intent: StandStraight
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: Remove your shoes
+Response: Sure, removing my shoes.
+Intent: RemoveShoes
+
+
+Question: Walk to the scale
+Response: Sure, I can do that
+Intent: Walk To Scale
+
+
+Question: Take breath
+Response: Breathing in
+Intent: DeepBreath
+
+
+Question: Raise head
+Response: okay
+Intent: RaiseHead
+
+
+Question: Stand staight
+Response: Ok, I'll stand up straight.
+Intent: StandStraight
+
+
+Question: Turn your back to the pole
+Response: Okay
+Intent: BackPost
+
+
+Question: Remove your hat
+Response: Do I have to? Okay I'll take it off. It's one of my favorite assets. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: Remove your shoes
+Response: I'll take them off right now.
+Intent: RemoveShoes
+
+
+Question: Walk to the scale
+Response: No problem
+Intent: Walk To Scale
+
+
+Question: Take breath
+Response: Breathing in
+Intent: DeepBreath
+
+
+Question: Raise head
+Response: sounds good
+Intent: RaiseHead
+
+
+Question: Stand staight
+Response: How does this look?
+Intent: StandStraight
+
+
+Question: Turn your back to the pole
+Response: How's this?
+Intent: BackPost
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: Remove your shoes
+Response: I'll take them off right now.
+Intent: RemoveShoes
+
+
+Question: Walk to the scale
+Response: No problem
+Intent: Walk To Scale
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Do I have to? Okay I'll take it off. It's one of my favorite assets. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: Remove your shoes
+Response: I'll take them off right now.
+Intent: RemoveShoes
+
+
+Question: Walk to the scale
+Response: Sure, I can do that
+Intent: Walk To Scale
+
+
+Question: Take breath
+Response: Breathing in
+Intent: DeepBreath
+
+
+Question: Raise head
+Response: sounds good
+Intent: RaiseHead
+
+
+Question: Stand staight
+Response: Ok, I'll stand up straight.
+Intent: StandStraight
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Do I have to? Okay I'll take it off. It's one of my favorite assets. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: Remove your shoes
+Response: Okay I can do that.
+Intent: RemoveShoes
+
+
+Question: Walk to the scale
+Response: yeah, I can do that
+Intent: Walk To Scale
+
+
+Question: Take breath
+Response: Breathing in
+Intent: DeepBreath
+
+
+Question: Raise head
+Response: okay
+Intent: RaiseHead
+
+
+Question: Stand staight
+Response: Is this better?
+Intent: StandStraight
+
+
+Question: Turn your back to the pole
+Response: How's this?
+Intent: BackPost
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: Remove your shoes
+Response: I'll take them off right now.
+Intent: RemoveShoes
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Do I have to? Okay I'll take it off. It's one of my favorite assets. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: Remove your shoes
+Response: Sure, removing my shoes.
+Intent: RemoveShoes
+
+
+Question: Walk to the scale
+Response: yeah, I can do that
+Intent: Walk To Scale
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: Remove your shoes
+Response: Sure, removing my shoes.
+Intent: RemoveShoes
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Do I have to? Okay I'll take it off. It's one of my favorite assets. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: Remove your shoes
+Response: I'll take them off right now.
+Intent: RemoveShoes
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Do I have to? Okay I'll take it off. It's one of my favorite assets. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: Remove your shoes
+Response: I'll take them off right now.
+Intent: RemoveShoes
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: Remove your shoes
+Response: Sure, removing my shoes.
+Intent: RemoveShoes
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Do I have to? Okay I'll take it off. It's one of my favorite assets. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: Remove your shoes
+Response: Sure, removing my shoes.
+Intent: RemoveShoes
+
+
+Question: Walk to the scale
+Response: Ok, I will walk there right now.
+Intent: Walk To Scale
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Do I have to? Okay I'll take it off. It's one of my favorite assets. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: Remove your shoes
+Response: Sure, removing my shoes.
+Intent: RemoveShoes
+
+
+Question: Walk to the scale
+Response: Sure, I can do that
+Intent: Walk To Scale
+
+
+Question: Take breath
+Response: Breathing in
+Intent: DeepBreath
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: Remove your shoes
+Response: Sure, removing my shoes.
+Intent: RemoveShoes
+
+
+Question: Walk to the scale
+Response: Ok, I will walk there right now.
+Intent: Walk To Scale
+
+
+Question: Take breath
+Response: Breathing in
+Intent: DeepBreath
+
+
+Question: Raise head
+Response: okay
+Intent: RaiseHead
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Do I have to? Okay I'll take it off. It's one of my favorite assets. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: Remove your shoes
+Response: Okay I can do that.
+Intent: RemoveShoes
+
+
+Question: Walk to the scale
+Response: yeah, I can do that
+Intent: Walk To Scale
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: Remove your shoes
+Response: Okay I can do that.
+Intent: RemoveShoes
+
+
+Question: Walk to the scale
+Response: yeah, I can do that
+Intent: Walk To Scale
+
+
+Question: Take breath
+Response: Breathing in
+Intent: DeepBreath
+
+
+Question: Raise head
+Response: okay
+Intent: RaiseHead
+
+
+Question: Stand staight
+Response: Is this better?
+Intent: StandStraight
+
+
+Question: Turn your back to the pole
+Response: Okay
+Intent: BackPost
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: Remove your shoes
+Response: Sure, removing my shoes.
+Intent: RemoveShoes
+
+
+Question: Walk to the scale
+Response: No problem
+Intent: Walk To Scale
+
+
+Question: Take breath
+Response: Breathing in
+Intent: DeepBreath
+
+
+Question: Raise head
+Response: sounds good
+Intent: RaiseHead
+
+
+Question: Stand staight
+Response: How does this look?
+Intent: StandStraight
+
+
+Question: Turn your back to the pole
+Response: Okay
+Intent: BackPost
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Do I have to? Okay I'll take it off. It's one of my favorite assets. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Do I have to? Okay I'll take it off. It's one of my favorite assets. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: Remove your shoes
+Response: Sure, removing my shoes.
+Intent: RemoveShoes
+
+
+Question: Walk to the scale
+Response: Sure, I can do that
+Intent: Walk To Scale
+
+
+Question: Take breath
+Response: Breathing in
+Intent: DeepBreath
+
+
+Question: Raise head
+Response: okay
+Intent: RaiseHead
+
+
+Question: Stand staight
+Response: How does this look?
+Intent: StandStraight
+
+
+Question: Turn your back to the pole
+Response: Okay
+Intent: BackPost
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Do I have to? Okay I'll take it off. It's one of my favorite assets. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Do I have to? Okay I'll take it off. It's one of my favorite assets. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Do I have to? Okay I'll take it off. It's one of my favorite assets. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: Remove your shoes
+Response: I'll take them off right now.
+Intent: RemoveShoes
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Do I have to? Okay I'll take it off. It's one of my favorite assets. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: Remove your shoes
+Response: I'll take them off right now.
+Intent: RemoveShoes
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: Remove your shoes
+Response: I'll take them off right now.
+Intent: RemoveShoes
+
+
+Question: Walk to the scale
+Response: No problem
+Intent: Walk To Scale
+
+
+Question: Take breath
+Response: Breathing in
+Intent: DeepBreath
+
+
+Question: Raise head
+Response: okay
+Intent: RaiseHead
+
+
+Question: Stand staight
+Response: How does this look?
+Intent: StandStraight
+
+
+Question: Turn your back to the pole
+Response: Okay
+Intent: BackPost
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Do I have to? Okay I'll take it off. It's one of my favorite assets. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: Remove your shoes
+Response: Okay I can do that.
+Intent: RemoveShoes
+
+
+Question: Walk to the scale
+Response: yeah, I can do that
+Intent: Walk To Scale
+
+
+Question: Take breath
+Response: Breathing in
+Intent: DeepBreath
+
+
+Question: Raise head
+Response: okay
+Intent: RaiseHead
+
+
+Question: Stand staight
+Response: How does this look?
+Intent: StandStraight
+
+
+Question: Turn your back to the pole
+Response: How's this?
+Intent: BackPost
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: Remove your shoes
+Response: I'll take them off right now.
+Intent: RemoveShoes
+
+
+Question: Walk to the scale
+Response: Ok, I will walk there right now.
+Intent: Walk To Scale
+
+
+Question: Take breath
+Response: Breathing in
+Intent: DeepBreath
+
+
+Question: Raise head
+Response: okay
+Intent: RaiseHead
+
+
+Question: Stand staight
+Response: Is this better?
+Intent: StandStraight
+
+
+Question: Turn your back to the pole
+Response: Okay
+Intent: BackPost
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: Remove your shoes
+Response: I'll take them off right now.
+Intent: RemoveShoes
+
+
+Question: Walk to the scale
+Response: Sure, I can do that
+Intent: Walk To Scale
+
+
+Question: Take breath
+Response: Breathing in
+Intent: DeepBreath
+
+
+Question: Raise head
+Response: okay
+Intent: RaiseHead
+
+
+Question: Stand staight
+Response: Ok, I'll stand up straight.
+Intent: StandStraight
+
+
+Question: Turn your back to the pole
+Response: How's this?
+Intent: BackPost
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Do I have to? Okay I'll take it off. It's one of my favorite assets. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: Remove your shoes
+Response: I'll take them off right now.
+Intent: RemoveShoes
+
+
+Question: Walk to the scale
+Response: yeah, I can do that
+Intent: Walk To Scale
+
+
+Question: Take breath
+Response: Breathing in
+Intent: DeepBreath
+
+
+Question: Raise head
+Response: okay
+Intent: RaiseHead
+
+
+Question: Stand staight
+Response: Ok, I'll stand up straight.
+Intent: StandStraight
+
+
+Question: Turn your back to the pole
+Response: Okay
+Intent: BackPost
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Do I have to? Okay I'll take it off. It's one of my favorite assets. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Do I have to? Okay I'll take it off. It's one of my favorite assets. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: Remove your shoes
+Response: Okay I can do that.
+Intent: RemoveShoes
+
+
+Question: Walk to the scale
+Response: yeah, I can do that
+Intent: Walk To Scale
+
+
+Question: Hello
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Remove your hat
+Response: Do I have to? Okay I'll take it off. It's one of my favorite assets. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: Hi there. How are you?
+Response: So far so good. Thank you.
+Intent: greeting
+
+
+Question: Take off your food.
+Response: Do I have to? Okay I'll take it off. It's one of my favorite assets. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: Take off.
+Response: Do I have to? Okay I'll take it off. It's one of my favorite assets. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: Hello. Hi.
+Response: Welcome to my agent!
+Intent: Default Welcome Intent
+
+
+Question: Are you?
+Response: I missed that, say that again?
+Intent: Default Fallback Intent
+
+
+Question: All are you doing.
+Response: Glad to hear
+Intent: Good
+
+
+Question: Take off your shoes.
+Response: Okay I can do that.
+Intent: RemoveShoes
+
+
+Question: Take off your hat.
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: Walk to the scalp.
+Response: yeah, I can do that
+Intent: Walk To Scale
+
+
+Question: Are you back to the Post?
+Response: How's this?
+Intent: BackPost
+
+
+Question: But you will stand straight, put your light closer.
+Response: Is this better?
+Intent: StandStraight
+
+
+Question: Take a normal breath and hold it.
+Response: Breathing in
+Intent: DeepBreath
+
+
+Question: Hi, how are you?
+Response: So far so good. Thank you.
+Intent: greeting
+
+
+Question: Remove your shoes.
+Response: Sure, removing my shoes.
+Intent: RemoveShoes
+
+
+Question: Take off your hat.
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: Take off your shoes.
+Response: Okay I can do that.
+Intent: RemoveShoes
+
+
+Question: Take off your hat.
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: Take off your hat.
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: Take off your hat.
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: Take off your hat.
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: Take off your hat.
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: Take off your hat.
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: Take off your hat.
+Response: Do I have to? Okay I'll take it off. It's one of my favorite assets. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: Take off your shoes.
+Response: I'll take them off right now.
+Intent: RemoveShoes
+
+
+Question: Take off your.
+Response: Do I have to? Okay I'll take it off. It's one of my favorite assets. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: Take off your shoes.
+Response: I'll take them off right now.
+Intent: RemoveShoes
+
+
+Question: Take off your shoes.
+Response: I'll take them off right now.
+Intent: RemoveShoes
+
+
+Question: Take off your.
+Response: Do I have to? Okay I'll take it off. It's one of my favorite assets. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: I got your shoes.
+Response: I'll take them off right now.
+Intent: RemoveShoes
+
+
+Question: Take out.
+Response: Breathing in
+Intent: DeepBreath
+
+
+Question: Take off your hat.
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: Take off your shoes.
+Response: Okay I can do that.
+Intent: RemoveShoes
+
+
+Question: Take off your shoes.
+Response: Okay I can do that.
+Intent: RemoveShoes
+
+
+Question: Take off your.
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: Take off your shoes.
+Response: I'll take them off right now.
+Intent: RemoveShoes
+
+
+Question: Take off your.
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: Take off your shoes.
+Response: Okay I can do that.
+Intent: RemoveShoes
+
+
+Question: Take off your hat.
+Response: Do I have to? Okay I'll take it off. It's one of my favorite assets. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: Take off your shoes.
+Response: Okay I can do that.
+Intent: RemoveShoes
+
+
+Question: Take off your.
+Response: Do I have to? Okay I'll take it off. It's one of my favorite assets. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: Take off your.
+Response: Do I have to? Okay I'll take it off. It's one of my favorite assets. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: Take off your shoes.
+Response: Okay I can do that.
+Intent: RemoveShoes
+
+
+Question: Take off your.
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: What does?
+Response: I didn't get that. Can you repeat?
+Intent: Default Fallback Intent
+
+
+Question: Walk to the scale.
+Response: Sure, I can do that
+Intent: Walk To Scale
+
+
+Question: Put your back against the pole.
+Response: How's this?
+Intent: BackPost
+
+
+Question: Take a deep breath.
+Response: Breathing in
+Intent: DeepBreath
+
+
+Question: Stan.
+Response: I didn't get that. Can you say it again?
+Intent: Default Fallback Intent
+
+
+Question: Stand straight.
+Response: Is this better?
+Intent: StandStraight
+
+
+Question: Take off your.
+Response: Do I have to? Okay I'll take it off. It's one of my favorite assets. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: Take off your shoes.
+Response: I'll take them off right now.
+Intent: RemoveShoes
+
+
+Question: Take off your hat.
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: Take off your.
+Response: Do I have to? Okay I'll take it off. It's one of my favorite assets. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: Pick up.
+Response: One more time?
+Intent: Default Fallback Intent
+
+
+Question: Take off your hat.
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: Take off your hat.
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: Take off your hat.
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: Pick up your shoes.
+Response: Sure, removing my shoes.
+Intent: RemoveShoes
+
+
+Question: Take out.
+Response: Breathing in
+Intent: DeepBreath
+
+
+Question: Take.
+Response: Breathing in
+Intent: DeepBreath
+
+
+Question: Walk to the sky.
+Response: Sure, I can do that
+Intent: Walk To Scale
+
+
+Question: Take off.
+Response: Do I have to? Okay I'll take it off. It's one of my favorite assets. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: Take off your shoes.
+Response: Sure, removing my shoes.
+Intent: RemoveShoes
+
+
+Question: Walk to the scale.
+Response: No problem
+Intent: Walk To Scale
+
+
+Question: Take off your shoes.
+Response: Okay I can do that.
+Intent: RemoveShoes
+
+
+Question: Take off your hat.
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+
+
+Question: Take off your hat.
+Response: Do I have to? Okay I'll take it off. It's one of my favorite assets. My agent gifted it to me.
+Intent: RemoveHat
+
+
+Question: Take off your.
+Response: Okay, taking off my hat. My agent gave this hat to me. It's one of my favorites.
+Intent: RemoveHat
+

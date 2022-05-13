@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "GoogleNaturalLanguageAPI",
+	"Description": "Provides natural language understanding technologies, such as sentiment analysis, entity recognition, entity sentiment analysis, and other text annotations, to developers.",
+	"Category": "Runtime",
+	"CreatedBy": "Ilgar Lunin",
+	"CreatedByURL": "https://www.facebook.com/dr.conors",
+	"DocsURL": "https://github.com/IlgarLunin/GoogleNaturalLanguageAPI-docs",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/9ce562408d1b4d41b6b19ea864974aef",
+	"SupportURL": "https://discord.gg/Tkf7xe2",
+	"EngineVersion": "4.26.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "GoogleNaturalLanguageAPI",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Linux",
+				"Mac",
+				"Android",
+				"IOS"
+			]
+		}
+	]
+}
